@@ -9,7 +9,8 @@ Through-hole TRIAC packages (TO-220) for easy replacement and heat-sink mounting
 On-board snubber and gate resistors for stable TRIAC triggering
 Screw terminal connectors for secure AC load connections
 Compact and modular PCB layout for easy integration
-Working Principle
+Working Principle <img width="625" height="406" alt="Screenshot 2026-01-15 at 2 36 01 PM" src="https://github.com/user-attachments/assets/6153257b-daa9-4e2a-aa47-1db325ddde07" />
+
 Each channel uses:
 An opto-coupler to electrically isolate the low-voltage control side (MCU/logic) from the high-voltage AC side
 A TRIAC that acts as a bidirectional AC switch
