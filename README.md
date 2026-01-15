@@ -21,7 +21,8 @@ AC motor ON/OFF control
 Heater and temperature control systems
 Industrial automation panels
 Smart power distribution units
-IoT-based energy and appliance control
+IoT-based energy and appliance control[Uploading fp-info-cache…]()
+
 Home automation (fans, lights, pumps)
 Advantages
 Electrical isolation improves safety and MCU protection
